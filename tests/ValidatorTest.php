@@ -71,6 +71,7 @@ class ValidatorTest extends PHPUnit_Framework_TestCase
             'EE12345678',
             'EL12345678',
             'ESX1234567',
+            'ESESESESB60713872',
             'FI1234567',
             'FR1234567890',
             'GB99999997',
